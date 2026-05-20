@@ -6,6 +6,8 @@ Sistema web para la gestión de órdenes de trabajo (OT) de radios. Permite regi
 
 **[Ver demo → proyectoradios-275888564441.us-central1.run.app](https://proyectoradios-275888564441.us-central1.run.app/)**
 
+![QR Code](proyectoradios_QR.png)
+
 > Desplegado en Google Cloud Run — proyecto `tylerrv25@gmail.com`
 
 ## Tecnologías
