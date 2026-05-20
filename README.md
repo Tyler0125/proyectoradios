@@ -2,6 +2,12 @@
 
 Sistema web para la gestión de órdenes de trabajo (OT) de radios. Permite registrar, visualizar y hacer seguimiento de actividades de programación, mantenimiento y baja de equipos de radio.
 
+## Demo en vivo
+
+**[Ver demo → proyectoradios-275888564441.us-central1.run.app](https://proyectoradios-275888564441.us-central1.run.app/)**
+
+> Desplegado en Google Cloud Run — proyecto `tylerrv25@gmail.com`
+
 ## Tecnologías
 
 - **Backend:** Python, Flask
